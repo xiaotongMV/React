@@ -16,7 +16,7 @@ class App extends Component{
     render(){
         return(
             <section className="box">
-                <Div name="React"></Div>
+                <Div></Div>
             </section>
             
         )

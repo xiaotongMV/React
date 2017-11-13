@@ -1,12 +1,8 @@
-.con{
-    position: relative;
-}
+
 
 .left{
     width: 100px;
     height: 100px;
     background: red;
-    position: absolute;
-    top: 30px;
-    left: 0px;
+    margin-left: marginLeft;
 }
